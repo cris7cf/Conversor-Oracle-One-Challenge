@@ -3,6 +3,7 @@
 Este codigo se trata de un Conversor de monedas, Conversor de temperatura, Conversor de presion, Conversor de masa.
 
 ![image](https://user-images.githubusercontent.com/122054865/228406505-fcb2fe81-4e7d-4e3d-af3c-6f78e0a3a7f5.png)
+
 ![image](https://user-images.githubusercontent.com/122054865/228406710-737e00a8-0d1e-464f-be89-0ea0fdfb1c28.png) 
 
 El conversor de monedas esta entorno a la conversion de Pesos mexicanos a otras divisas como:
@@ -44,4 +45,4 @@ Y en la ultima parte del conversor tenemos un conversor de presión:
 
 ![image](https://user-images.githubusercontent.com/122054865/228407886-0ff71a14-3677-4049-8e9b-4518d3529f77.png)
 
-Hasta el momento es hasta donde se a desarrollado el codigo de este conversor, solo llevo menos de medio año aprendiendo a programar, autor: Cristian Ceron.
+Hasta el momento es hasta donde se a desarrollado el codigo de este conversor, solo llevo menos de medio año aprendiendo a programar, autor: Cristian Franco.
